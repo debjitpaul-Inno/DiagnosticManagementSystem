@@ -14,6 +14,6 @@ yarn-error.log
 /.idea
 /.vscode
 credentials.txt
-app/Repository
+/app/Repository
 database/migrations
 
